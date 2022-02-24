@@ -11,7 +11,6 @@
 3
 
 第二題執行結果
-stack Object
 (
     [stack] => Array
         (
@@ -20,7 +19,6 @@ stack Object
 
     [size] => 1
 )
-stack Object
 (
     [stack] => Array
         (
@@ -30,7 +28,6 @@ stack Object
 
     [size] => 2
 )
-stack Object
 (
     [stack] => Array
         (
