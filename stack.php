@@ -17,7 +17,7 @@ class stack {
     public function push($data) {
         $this->size = $this->size + 1;
         $this->stack[$this->size] = $data;
-        return $this;
+        return $this->stack;
     }
 
     /**
