@@ -13,9 +13,9 @@
 第二題執行結果
 
 (
-    [stack] => Array<br>
+    [stack] => Array
         (
-            [1] => 1<br>
+            [1] => 1
         )
 )
 <br>
