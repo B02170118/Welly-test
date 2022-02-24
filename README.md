@@ -11,27 +11,27 @@
 3 <br>
 
 第二題執行結果
-(<br>
+(
     [stack] => Array<br>
         (<br>
             [1] => 1<br>
         )<br>
-)<br>
-(<br>
-    [stack] => Array<br>
-        (<br>
-            [1] => 1<br>
-            [2] => 2<br>
-        )<br>
-)<br>
-(<br>
-    [stack] => Array<br>
-        (<br>
-            [1] => 1<br>
-            [2] => 2<br>
-            [3] => 3<br>
-        )<br>
-) <br>
+)
+(
+    [stack] => Array
+        (
+            [1] => 1
+            [2] => 2
+        )
+)
+(
+    [stack] => Array
+        (
+            [1] => 1
+            [2] => 2
+            [3] => 3
+        )
+) 
 3 <br>
 2 <br>
 
